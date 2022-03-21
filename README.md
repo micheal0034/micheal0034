@@ -7,20 +7,15 @@ Want to know more about me? [Click here](https://micheal0034.github.io/MikeTheSc
 Talking about Personal Stuffs:
 
 👨🏽‍💻 I’m a Data Scientist;
-
 💼 I’m completed my Bachelor's degree in University of Benin;
-
 🤔 My interests are with Data Science 📊, Space 🚀, etc..;
-
 🎬 I love watching movies and I'm a big fan of CHE 
-
 💬 Ask me about anything, I am happy to help;
-
 📫 Please email via michealedekin@gmail.com or ping me on LinkedIn to reach me;
 
 
 
-Worked with
+**Worked with**
 •	Data analysis
 •	Git
 •	Jupyter Notebook
@@ -34,7 +29,6 @@ GitHub Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=micheal0034&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=micheal0034.micheal0034)
 
 
 Top Languages: English
