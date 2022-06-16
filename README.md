@@ -1,5 +1,4 @@
-# Hi, I'm [Michael!](https://www.linkedin.com/in/mikethescientist/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 28px>
-
+# Hi, I'm [Michael!](https://www.linkedin.com/in/mikethescientist/)
 # 💫About Me :
 🔭  I’m currently working as a Data Scientist with [Artificial Neurons AI](https://artificialneurons.ai/).\
  🌱 I’m currently learning more about Cyber Security cause of my newly developed interest in it.\
