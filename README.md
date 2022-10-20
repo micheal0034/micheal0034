@@ -1,10 +1,10 @@
 # Hi, I'm [Michael!](https://www.linkedin.com/in/mikethescientist/)
 # 💫About Me :
 🔭  I’m currently working as a Data Scientist with [Artificial Neurons AI](https://artificialneurons.ai/).\
- 🌱 I’m currently learning more about Cyber Security cause of my newly developed interest in it.\
+ 🌱 I’m currently learning more about AI and Advanced Analytics.\
  🤔 I’m looking forward to exploring New Technologies.\
  💬 Ask me about any tech-related stuff.\
- 📫 How to reach me: Email - michealedekin@gmail.com\
+ 📫 How to reach me: Email - michealedekin7@gmail.com\
  😄 I'm looking to leverage my skills on other tech companies\
  ⚡ Fun fact: My favourite mentor is RPN.
 
