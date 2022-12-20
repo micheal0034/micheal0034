@@ -1,6 +1,6 @@
 # Hi, I'm [Michael!](https://www.linkedin.com/in/mikethescientist/)
 # 💫About Me :
-🔭  I’m currently working as a Data Scientist with [Artificial Neurons AI](https://artificialneurons.ai/).\
+🔭  I’m currently working as a Freelance Data Scientist.\
 I am looking to explore the world of freelancing.\
  🌱 I’m currently learning more about AI and Advanced Analytics.\
  🤔 I’m looking forward to exploring New Technologies.\
