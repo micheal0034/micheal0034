@@ -1,7 +1,7 @@
 # Hi, I'm [Michael!](https://www.linkedin.com/in/mikethescientist/)
 # 💫About Me :
  🔭 I’m currently working as a Freelance Data Scientist.\
- 🌱 I’m currently learning more about AI and Advanced Analytics.\
+ 🌱 I’m open to working on more AI Projects.\
  🤔 I’m looking forward to exploring New Technologies.\
  💬 Ask me about any tech-related stuff.\
  📫 How to reach me: Email - michealedekin7@gmail.com\
