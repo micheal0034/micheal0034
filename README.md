@@ -4,7 +4,7 @@
  🌱 I’m open to working on more AI Projects.\
  🤔 I’m looking forward to exploring New Technologies.\
  💬 Ask me about any tech-related stuff.\
- 📫 How to reach me: Email - michealedekin7@gmail.com\
+ 📫 How to reach me: Email - michealedekin@gmail.com\
  😄 I'm looking to leverage my skills on other tech companies\
  ⚡ Fun fact: My favourite mentor is RPN.
 
