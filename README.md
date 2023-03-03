@@ -1,4 +1,4 @@
-![GitHub Readme Profile Banner copy](![Digital Marketing](https://user-images.githubusercontent.com/67734700/222590671-cae9df20-c7a8-44c7-8cd9-0ce664c47586.jpg)
+![Digital Marketing](https://user-images.githubusercontent.com/67734700/222590671-cae9df20-c7a8-44c7-8cd9-0ce664c47586.jpg)
 )
 <br>
 <br>
