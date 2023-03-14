@@ -26,6 +26,9 @@
 <p align="left">
 :point_right:  <a href="https://michaeledekin.medium.com/what-is-an-outlier-9c0526b4bce5" rel="noopener noreferrer" target="_blank">Outlier in Building ML models</a><br>(The <a href="https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-59ba">most reached out post</a> the week it was published)
 </p>
+<p align="left">
+:point_right:  <a href="https://michaeledekin.medium.com/advancing-ai-to-eliminate-trial-and-error-in-medicine-healthcare-e47dab581fda" rel="noopener noreferrer" target="_blank">AI IN HEALTHCARE</a><br>(The <a href="https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-59ba">most reached out post</a> the week it was published)
+</p>
 <br>
 
 # 💻Tech Stack
