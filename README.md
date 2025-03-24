@@ -1,5 +1,3 @@
-![Digital Marketing](https://user-images.githubusercontent.com/67734700/222590671-cae9df20-c7a8-44c7-8cd9-0ce664c47586.jpg)
-)
 <br>
 <br>
 
@@ -15,7 +13,7 @@
 <p align="left">
 <a href="mailto: michealedekin@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/dotty/40/000000/email.png" alt="michealedekin email" />
 </a>
-<a href="https://linkedin.com/in/mikethescientist" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michealedekin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michaeledekin/" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michealedekin" height="30" width="40" /></a>
 </p>
 <p align="left">
 <a href="https://twitter.com/Model_Maestro" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/twitter/follow/michealedekin?logo=twitter&style=for-the-badge" alt="michealedekin" /></a>
